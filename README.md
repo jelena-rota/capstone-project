@@ -71,7 +71,7 @@ The first day of the test set, Friday, December 1, 2017, showed significant unde
 
 The whole test set (December 2017) showed mainly underpredictions throughout the day.
 
-Training the model on a larger dataset, instead of 11 months, should improve the predictions.
+Training the model on a larger dataset would improve the predictions.
 
 <br/>
 
@@ -89,7 +89,7 @@ The first day of the test set, Friday, December 1, 2017, showed underpredictions
 
 The whole test set (December 2017) showed mainly underpredictions on working days in the morning hours.
 
-Training the model on a larger dataset, instead of 11 months, should improve predictions.
+Training the model on a larger dataset would improve predictions.
 
 <br/>
 
@@ -107,4 +107,4 @@ The first day of the test set, Friday, December 1, 2017, showed underpredictions
 
 The whole test set (December 2017) showed mainly underpredictions on working days in the morning hours.
 
-Training the model on a larger dataset, instead of 11 months, should improve predictions.
+Training the model on a larger dataset would improve predictions.
