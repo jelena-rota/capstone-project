@@ -1,6 +1,8 @@
+**Capstone Project: Prediction of NO2 emissions in Zurich**
+
 **Introduction**
 
-This project is about predicting the 1 hour ahead emission of nitrogen dioxide (NO2) in the city of Zurich at the Stampfenbachstrasse, where the air quality and meteorological measurement station is located.
+This project is about predicting emission of nitrogen dioxide (NO2) in the city of Zurich at the Stampfenbachstrasse, where the air quality and meteorological measurement station is located.
 
 Nitrogen dioxide (NO2) and nitrogen monoxide (NO) contribute to the formation of smog and acid rain, and are affecting tropospheric ozone. These gases are usually produced from the reaction between nitrogen and oxygen during combustion of fuels at high temperatures in car engines.
 
@@ -47,11 +49,11 @@ Feature information:
 
 **Exploratory data analysis**
 
-The raw dataset from the data preparation notebook was loaded in the 1st section.
+The raw dataset from the data preparation notebook was loaded into the exploratory data analysis notebook.
 
-In the 2nd section data was prepared for the analysis by dealing with missing values, inconsistencies and outliers, relationships (NO, NO2 and NOx), distribution of features, integer encoding (day name, rain duration) and by adding time features (hour, month).
+Dataset was prepared for the analysis by dealing with missing values, inconsistencies and outliers, relationships (NO, NO2 and NOx), distribution of features, integer encoding (day name, rain duration) and by adding time features (hour, month).
 
-In the 3rd section, cycles, temporal dependencies, autocorrelation, stationarity and relationships were investigated.
+Then, cycles, temporal dependencies, autocorrelation, stationarity and relationships were investigated.
 
 In the end, dataset was prepared for the modeling by applying cyclical encoding, adding lagged features, applying log transformation and sample split.
 
